@@ -1,5 +1,5 @@
 # Webconference
-## Projeto desenvolvido com nodejs e MediaSoup para a empresa Aprenda Certo
+## Projeto Video conferencio desenvolvido com nodejs e MediaSoup para a empresa Aprenda Certo
 ### Apenas Prints de telas (codigo é de parte intelecutal da empresa)
 
 ## Sobre o Projeto:
