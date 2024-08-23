@@ -42,6 +42,7 @@ Opção para esconder as cameras ativas
 ![cameras_ocultas](https://github.com/user-attachments/assets/212cd519-9761-484c-9e02-1f89a1b82d41)
 
 Preparado para quem precisar usar no celular
+
 ![mobvile_2](https://github.com/user-attachments/assets/deed51ec-f5bf-486c-9f42-cf810e0bfcc8)
 
 ![mobile_1](https://github.com/user-attachments/assets/f5d1ee66-5703-4905-8fb5-4091b3d3de1a)
