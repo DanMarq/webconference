@@ -58,4 +58,5 @@ Preparado para quem precisar usar no celular
 - Bloqueio de acesso a sala nao criada ou nao permito;
 - Gravar conferencia
 - Notificações do chat e quem levanta a mão;
-- Aviso de conexão instavel
+- Transmissão de video em tempo real;
+- Aviso de conexão instavel.
